@@ -1,0 +1,74 @@
+html, body {
+	width: 100%;
+	height: 100%;
+	font-size: 20px;
+	color: #222;
+}
+
+.web{
+	background: #bfbeb9;
+	height: 80px;
+	}
+.web img{
+	width: 300px;
+	padding: 15px;
+	margin-left: 20px;
+	}
+
+.giaodien ul{
+	margin: 0px; padding: 0px;
+	background: black;
+	}
+.giaodien ul li{
+	list-style: none;
+	display: inline-table;
+	}
+.giaodien ul li a{
+	text-decoration: none;
+	height: 60px;
+	line-height: 60px;
+	color: white;
+	padding: 0px 10px 0px 10px;	
+	margin-left: 130px;
+	}
+.giaodien ul li a:hover{
+	color: #f00;
+}
+.carousel-inner img {
+	width: 100%;
+
+	height: 700px;
+}
+.carousel-caption {
+	top: 35%;
+}
+.carousel-caption h1 {
+	font-size: 300%;
+}
+
+	footer{
+		background: #878681;
+		width: 100%;
+		height: 160px;
+		padding: 15px;
+		color: #fff;
+		font-size: 16px;
+	}
+	.box{
+	font-size: 20px;
+	}
+	.box1{
+		margin-left: 30px;
+		width: 24%;
+		float: left;
+
+	}
+	.box2{
+		width: 40%;
+		float: right;
+	}
+	.box3{
+		width: 32%; 
+		float: left;
+	}
+

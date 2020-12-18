@@ -1,0 +1,138 @@
+        body{
+			width: 100%;
+			height: 100%;
+			font-size: 20px;
+			color: #222;
+		}
+        #menu{
+			height: 80px;
+			background: #bfbeb9;
+			
+		}
+		#menu img{
+			width: 270px;
+			padding: 15px;
+			margin-left: 20px;
+		}
+		#banner{
+			background: black;
+			height: 60px;
+			width: 100%;
+
+		}
+		#banner ul{
+			list-style-type: none;
+			margin: 0px;
+			padding: 0px;
+			
+
+		}
+		#banner ul li{
+			float: left;
+			padding-left: 95px;
+			padding-right: 5px;
+			font-weight: bold;	
+		}
+		#banner ul li a{
+			text-decoration: none;
+			display: block;
+			color: white;
+			padding: 15px;
+			margin-left: 20px;
+			margin-top:   5px;
+		}
+		#banner ul li a:hover{
+			color: #f00;
+        	
+		}
+		#main #left{
+			margin-left: 20px;
+			padding-top: 15px;
+			float: left;
+			width: 30%;
+			padding-bottom: 20px;	 
+		}
+		#main #left ul{
+			list-style-type: none;
+			margin: 0px;
+			float: left;
+			padding-left: 95px;
+			padding-right: 5px;
+			font-weight: bold;
+			text-align: center;
+		}
+		#main #right{
+			padding-top: 15px;
+			float: left;
+			width: 30%;
+			padding-bottom: 20px;	
+
+		}
+		#main #right ul{
+			list-style-type: none;
+			margin: 0px;
+			float: left;
+			padding-left: 95px;
+			padding-right: 5px;
+			font-weight: bold;
+			text-align: center;
+		}
+		#main #next{
+			padding-top: 15px;
+			float: left;
+			width: 30%;
+			padding-bottom: 20px;	
+		}
+		#main #next ul{
+			list-style-type: none;
+			margin: 0px;
+			padding-left: 95px;
+			padding-right: 5px;
+			font-weight: bold;
+			text-align: center;
+			float: left;
+		}
+		#main ul h1{
+			font-size: 30px;
+		}
+		
+		#nut{
+			text-decoration: none;
+			background-color: #dc4a38;
+			display: block;
+			color: white;
+			padding: 7px 10px;
+			border-radius: 5px;
+			transform: color 2s, background 2s;
+		}
+		#nut:hover{
+			color: #dc4a38;
+			background-color: white; 
+		}
+
+		.footer{
+		background: #878681;
+		width: 100%;
+		height: 160px;
+		clear: left;
+		color: #fff;
+		font-size: 17px;		
+	}
+		.box{
+		font-size: 20px;
+		}
+		.box1{
+		margin-left: 40px;
+		margin-right: 10px;
+		width: 23%;
+		float: left;
+
+		}
+		.box2{
+			width: 40%;
+			float: right;
+		}
+		.box3{
+			width: 32%; 
+			float: left;
+		}
